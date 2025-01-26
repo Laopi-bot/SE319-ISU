@@ -1,0 +1,64 @@
+{
+  "games": [
+      {
+          "title": "Subnautica",
+          "release_year": 2014,
+          "description":"Subnautica is an immersive survival adventure video game set on an alien ocean planet. Players find themselves stranded in an underwater world teeming with vibrant marine life, diverse ecosystems, and mysterious ruins. The game challenges players to explore the depths, gather resources, construct bases, and unravel the secrets of the planet's past while overcoming the dangers lurking beneath the waves. With stunning visuals, atmospheric sound design, and a compelling narrative, Subnautica offers a captivating experience that blends exploration, crafting, and survival elements in an otherworldly aquatic setting.",
+          "lawsons_review": "Subnautica plunges players into an awe-inspiring abyss of wonder and discovery. From its breathtaking underwater landscapes to its hauntingly beautiful soundtrack, every moment in this submerged world feels like a mesmerizing journey. The game's blend of exploration, survival, and storytelling is masterfully executed, keeping players hooked as they uncover the secrets of its depths. With its immersive atmosphere and rich gameplay, Subnautica is a true masterpiece of the aquatic genre, offering an unforgettable adventure beneath the waves.",
+          "michaels_review": "Subnautica delivers a visually breathtaking underwater adventure, inviting players to explore its vast oceanic landscapes and unravel its mysteries. Its atmospheric soundtrack and immersive world-building set a mesmerizing tone, drawing players into a world teeming with life and wonder. However, beneath its surface beauty lies a gameplay experience that can feel repetitive and occasionally frustrating. The survival mechanics, while initially engaging, become tedious over time, often feeling like chores rather than compelling challenges. Progression can feel slow, and the lack of diversity in gameplay dynamics may leave players yearning for more variety. Despite these shortcomings, Subnautica remains a compelling journey for those willing to immerse themselves in its depths and endure its flaws for the sake of its captivating narrative and stunning environments.",
+          "url_1": "./images/subnautica_1.jpg",
+          "url_2": "./images/subnautica_2.webp",
+          "url_3": "./images/subnautica_3.jpg"
+      },
+      {
+        "title": "Legend of Zelda: Tears of the Kingdom",
+        "year": 2023,
+        "description":"The Legend of Zelda: Tears of the Kingdom sees hero Link and Princess Zelda on a quest for powerful gems to save Hyrule from the dark forces of Ganon. Players navigate dungeons, solve puzzles, and battle foes to restore balance with the legendary Master Sword.",
+        "lawsons_review": "The Legend of Zelda: Tears of the Kingdom has lived up to the high expectations created by the success of Breath of the Wild with its exquisitely intertwined gameplay systems, outstanding music, and a legendary story culminating in a magnificent denouement.",
+        "michaels_review": "The Legend of Zelda: Tears of the Kingdom is an unfathomable follow-up to one of the greatest games ever made, somehow improving upon it in almost every way possible",
+        "url_1": "./images/totk_1.webp",
+        "url_2": "./images/totk_2.jpg",
+        "url_3": "./images/totk_3.jpg"
+      },
+      {
+        "title": "Minecraft",
+        "year": 2011,
+        "description":"Minecraft is a sandbox video game where players explore, gather resources, and build structures in a blocky, pixelated world. It offers modes like Survival, where players fend off enemies, and Creative, allowing unlimited building. With endless possibilities and a vibrant player community, Minecraft is celebrated for its creativity and exploration.",
+        "lawsons_review": "Personally, I love minecraft, but now a days it's starting to show its age. While the game offers vast opportunities for creativity and exploration, its simplistic graphics and gameplay may not appeal to everyone. Some players may find its blocky visuals outdated and its mechanics repetitive over time. Additionally, the game's survival mode, which involves fending off enemies and managing resources, can feel tedious and stressful for those seeking more relaxed gameplay experiences. Despite its popularity, Minecraft may not resonate with gamers looking for more complex narratives or visually stimulating experiences.",
+        "michaels_review": "Minecraft is a captivating journey into boundless creativity. From crafting tools to building towering structures, every moment feels like an adventure. Its open-world format and multiplayer options add a social dimension that keeps me coming back for more. Minecraft isn't just a game; it's a canvas for imagination and endless exploration.",
+        "url_1": "./images/minecraft_1.jpg",
+        "url_2": "./images/minecraft_2.jpg",
+        "url_3": "./images/minecraft_3.jpg"
+      },
+      {
+        "title": "Valorant",
+        "year": 2020,
+        "description":"Valorant is a team-based tactical shooter game where players engage in intense 5v5 matches. Each player selects agents with unique abilities and works with their team to complete objectives. With precise gunplay and strategic abilities, players compete in fast-paced rounds to secure victory.",
+        "lawsons_review": "Valorant presents an intense blend of strategy and skill in its competitive shooter gameplay. Its emphasis on teamwork and precise gunplay offers a challenging experience for players seeking depth and coordination. However, the game's reliance on precise aiming and character abilities may deter those who prefer a more casual approach to gaming. Additionally, occasional balancing issues and technical glitches can disrupt the flow of matches. Despite its challenges, Valorant provides a satisfying experience for players willing to invest time and effort into mastering its mechanics and collaborating effectively with teammates",
+        "michaels_review": "Valorant is a competitive team-based shooter featuring precise gunplay and unique character abilities. Its strategic gameplay can be intense, but newcomers might find the learning curve steep. Despite occasional balance issues, the game offers thrilling moments and rewards teamwork and skillful play.",
+        "url_1": "./images/valo_1.jpg",
+        "url_2": "./images/valo_2.jpg",
+        "url_3": "./images/valo_3.jpg"
+    },
+    {
+      "title": "League of Legends",
+      "year": 2009,
+      "description":"League of Legends (LoL) is a multiplayer online battle arena (MOBA) game where teams of champions battle across diverse maps and game modes. Players control powerful champions with unique abilities, working together to destroy the enemy team's base while defending their own. With a vast roster of champions and strategic gameplay, League of Legends is renowned for its competitive depth and global esports presence.",
+      "lawsons_review": "League of Legends offers thrilling gameplay and a vibrant community, but its competitive nature can sometimes lead to toxicity among players. Despite this challenge, many find camaraderie and teamwork within the community, fostering memorable gaming experiences. Efforts to promote positive sportsmanship are crucial for creating a more inclusive environment.",
+      "michaels_review": "League of Legends is a thrilling multiplayer online battle arena game that offers endless excitement and strategic depth. With diverse champions, dynamic gameplay, and a thriving esports scene, it captivates players of all levels. From casual fun to competitive intensity, League of Legends delivers unforgettable moments and fosters a passionate community.",
+      "url_1": "./images/lg_1.jpg",
+      "url_2": "./images/league_2.webp",
+      "url_3": "./images/lg_3.jpg"
+    },
+    {
+      "title": "Runescape",
+      "year": 2001,
+      "description":"RuneScape is a massively multiplayer online role-playing game (MMORPG) set in the fantasy realm of Gielinor. Players explore a vast world, complete quests, engage in combat, and skill up in various disciplines such as mining, fishing, and crafting. With its rich lore, diverse gameplay, and active community, RuneScape offers an immersive experience for players seeking adventure and social interaction in a virtual world.",
+      "lawsons_review": "RuneScape is an expansive MMORPG set in Gielinor. With diverse skills and quests, players embark on epic adventures, battling monsters and mastering crafting. Despite its classic graphics, RuneScape's deep lore and engaging gameplay captivate players worldwide, offering endless possibilities and memorable encounters.",
+      "michaels_review": "RuneScape offers a vast and immersive world, but its complexity can be overwhelming for newcomers. With a steep learning curve and outdated graphics, it may not appeal to everyone. However, for those willing to invest time, its depth and challenges offer a rewarding experience.",
+      "url_1": "./images/rs_1.jpg",
+      "url_2": "./images/rs_2.jpg",
+      "url_3": "./images/rs_3.jpg"
+    }
+  ]
+}
